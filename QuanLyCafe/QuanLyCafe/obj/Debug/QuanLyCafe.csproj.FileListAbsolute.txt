@@ -1,0 +1,13 @@
+C:\Users\Asus\OneDrive\Project\QuanLyCafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\Asus\OneDrive\Project\QuanLyCafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\Asus\OneDrive\Project\QuanLyCafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\Asus\OneDrive\Project\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojAssemblyReference.cache
+C:\Users\Asus\OneDrive\Project\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fLogin.resources
+C:\Users\Asus\OneDrive\Project\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Project\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Project\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Project\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\Asus\OneDrive\Project\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+C:\Users\Asus\OneDrive\Project\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fManagement.resources
+C:\Users\Asus\OneDrive\Project\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.AccountProfile.resources
+C:\Users\Asus\OneDrive\Project\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
